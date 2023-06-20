@@ -1,0 +1,1 @@
+{"iat":1687109817,"exp":1688319417,"accountId":"http://localhost:3000/yotam-melio/profile/card#me","clientId":"uf0Q1b93pP8jQl5RCHO7z","kind":"Grant","jti":"w6aGSSmoHVJuIlWZbHO9xNPd0kArwzO2iI9PRV8S3NV","openid":{"scope":"openid offline_access webid"},"resources":{"http://example.com/":"webid"}}

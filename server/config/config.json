@@ -1,0 +1,18 @@
+{
+  "root": "/solid/data",
+  "port": "3000",
+  "serverUri": "https://726f-87-68-244-88.ngrok-free.app",
+  "webid": true,
+  "mount": "/",
+  "configPath": "./config",
+  "configFile": "./config.json",
+  "dbPath": "./.db",
+  "sslKey": "/keys/privkey.pem",
+  "sslCert": "/keys/fullchain.pem",
+  "multiuser": false,
+  "server": {
+    "name": "The Beyond the Frame Solid Server",
+    "description": "This is a Solid server experiment.",
+    "logo": ""
+  }
+}
